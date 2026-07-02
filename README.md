@@ -34,7 +34,9 @@ Goldin (2014).
 
 ## Repo Structure
 ├── scripts/gender_paygap_wage1.do    # Full Stata code
+
 ├── output/                            # Regression log + graphs
+
 └── report/                            # Full write-up with literature review
 
 ## Data
